@@ -1,0 +1,29 @@
+READ 4 ... okay
+READ 13 ... okay
+WRITE cc32 ... okay
+READ 4000 ... okay
+READ 4000 ... okay
+WRITE 6001 ... okay
+WRITE 201ac ... page fault
+Page:2 replaced by page:8
+WRITE 201ad ... okay
+READ 201ab ... okay
+WRITE 28028 ... page fault
+Page:0 replaced by page:10
+WRITE 28032 ... okay
+WRITE 2803c ... okay
+READ 48026 ... page fault
+Page:3 replaced by page:18
+READ 43df0 ... page fault
+Page:1 replaced by page:16
+READ 201ac ... okay
+READ 201ad ... okay
+READ 5402e ... page fault
+Page:10 replaced by page:21
+READ 28028 ... page fault
+Page:18 replaced by page:10
+READ 28032 ... okay
+READ 62caa ... page fault
+Page:16 replaced by page:24
+WRITE 78050 ... page fault
+Page:8 replaced by page:30
