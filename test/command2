@@ -1,0 +1,138 @@
+// Complex sequence with frequent accesses, boundary conditions, and large address spans
+
+// Block 5: High-frequency access to a small range, simulating a hotspot
+WRITE 16384
+WRITE 16385
+READ 16384
+WRITE 16386
+READ 16385
+WRITE 16387
+READ 16386
+WRITE 16388
+
+// Block 8: Accessing and revisiting different pages rapidly
+WRITE 131500
+READ 131501
+WRITE 131502
+READ 131503
+WRITE 131504
+WRITE 131505
+READ 131506
+READ 131507
+WRITE 131508
+
+// Frequent access to sequential addresses across blocks 12-14
+WRITE 196608
+WRITE 196609
+READ 196610
+WRITE 196611
+READ 196612
+WRITE 196613
+WRITE 196614
+READ 196615
+
+// Access to random addresses, testing for randomness in memory access
+WRITE 524288
+READ 524289
+WRITE 524290
+READ 524291
+WRITE 524292
+READ 524293
+WRITE 524294
+READ 524295
+WRITE 524296
+
+// Mixed write/read pattern with frequently accessed addresses
+READ 262144
+WRITE 262145
+READ 262146
+WRITE 262147
+READ 262148
+WRITE 262149
+READ 262150
+
+// Frequent access to upper-bound addresses
+WRITE 1048560
+READ 1048561
+WRITE 1048562
+READ 1048563
+WRITE 1048564
+READ 1048575
+
+// Simulating memory bursts with both writes and reads in blocks 10-13
+WRITE 163880
+WRITE 163890
+READ 163880
+WRITE 173880
+READ 173890
+WRITE 173900
+READ 173910
+WRITE 183900
+WRITE 183910
+READ 183920
+WRITE 183930
+
+// Random page faults and scattered writes
+WRITE 800000
+WRITE 900000
+READ 1000000
+WRITE 1024000
+READ 1048000
+WRITE 1048575
+
+// Simulate large continuous access pattern
+WRITE 0
+WRITE 1
+WRITE 2
+WRITE 3
+WRITE 4
+WRITE 5
+WRITE 6
+WRITE 7
+WRITE 8
+WRITE 9
+WRITE 10
+WRITE 11
+WRITE 12
+WRITE 13
+WRITE 14
+WRITE 15
+
+// Boundary checks with values close to the maximum virtual address
+WRITE 1048575
+READ 1048574
+WRITE 1048574
+READ 1048573
+WRITE 1048573
+WRITE 1048572
+READ 1048572
+WRITE 1048571
+
+// Heavy page access with both writes and reads
+WRITE 1048570
+WRITE 1048569
+READ 1048568
+WRITE 1048567
+WRITE 1048566
+READ 1048565
+READ 1048564
+WRITE 1048563
+
+// Cross-page read/write
+WRITE 150000
+WRITE 150001
+WRITE 150002
+READ 150003
+WRITE 150004
+READ 150005
+
+// Simulate random writes across large address ranges with no specific pattern
+WRITE 1024
+WRITE 2048
+WRITE 8192
+WRITE 24576
+WRITE 65536
+WRITE 131072
+WRITE 262144
+WRITE 524288
+WRITE 1048575

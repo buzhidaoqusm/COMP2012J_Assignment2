@@ -1,0 +1,12 @@
+enable_logging true
+log_file 2LRU_command2
+pagesize 16384
+addressradix 16
+numpages 64
+replacementAlgorithm LRU
+physicalMemSize 5
+memset 0 0 0 0 0 0
+memset 1 1 0 0 0 0
+memset 2 2 0 0 0 0
+memset 3 3 0 0 0 0
+memset 4 4 0 0 0 0

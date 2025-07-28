@@ -1,0 +1,68 @@
+WRITE 1 ... okay
+WRITE 2 ... okay
+READ 1 ... okay
+READ 2 ... okay
+WRITE 4 ... okay
+READ 7 ... okay
+WRITE 28028 ... page fault
+Page:1 replaced by page:10
+WRITE 28032 ... okay
+READ 28028 ... okay
+READ 28032 ... okay
+WRITE 2803c ... okay
+READ 28046 ... okay
+WRITE dbba0 ... page fault
+Page:2 replaced by page:54
+READ aae60 ... page fault
+Page:3 replaced by page:42
+WRITE c3500 ... page fault
+Page:4 replaced by page:48
+READ 927c0 ... page fault
+Page:0 replaced by page:36
+WRITE 3c000 ... page fault
+Page:10 replaced by page:15
+READ 3c000 ... okay
+WRITE 3c000 ... okay
+READ 3c000 ... okay
+WRITE 7fff ... page fault
+Page:54 replaced by page:1
+READ 8000 ... page fault
+Page:42 replaced by page:2
+WRITE 8001 ... okay
+READ 8002 ... okay
+WRITE 8004 ... okay
+WRITE ffdc0 ... page fault
+Page:48 replaced by page:63
+READ fffb4 ... okay
+WRITE fffb5 ... okay
+READ fffff ... okay
+WRITE 50000 ... page fault
+Page:36 replaced by page:20
+WRITE 50001 ... okay
+READ 50000 ... okay
+WRITE 50002 ... okay
+READ 50001 ... okay
+READ 50002 ... okay
+READ 493e0 ... page fault
+Page:15 replaced by page:18
+WRITE 55730 ... page fault
+Page:1 replaced by page:21
+READ 61a80 ... page fault
+Page:2 replaced by page:24
+WRITE 6ddd0 ... page fault
+Page:63 replaced by page:27
+WRITE aaa ... page fault
+Page:20 replaced by page:0
+READ aaa ... okay
+WRITE aab ... okay
+READ aab ... okay
+WRITE aac ... okay
+READ aac ... okay
+WRITE dbba0 ... page fault
+Page:18 replaced by page:54
+READ cf850 ... page fault
+Page:21 replaced by page:51
+WRITE e7ef0 ... page fault
+Page:24 replaced by page:57
+READ f423f ... page fault
+Page:27 replaced by page:61

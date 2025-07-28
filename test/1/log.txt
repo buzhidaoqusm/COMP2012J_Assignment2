@@ -1,0 +1,1510 @@
+Before replacement:
+Page: 0 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: true
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: true
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: false
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: false
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 1 in memory: 1 last touch time: 40 in memory time: 90 reference bit: false
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 2 in memory: 2 last touch time: 120 in memory time: 120 reference bit: false
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 18 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 110 in memory time: 130 reference bit: false
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 4 in memory: 4 last touch time: 160 in memory time: 160 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 21 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+
+After replacement:
+Page: 24 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: false
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: false
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 24 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: false
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: false
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+
+After replacement:
+Page: 24 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 30 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: false
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 20 in memory time: 50 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: true
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: true
+Page: 4 in memory: 4 last touch time: 50 in memory time: 50 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: false
+Page: 4 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 1 in memory: 1 last touch time: 70 in memory time: 70 reference bit: false
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+Page: 4 in memory: 4 last touch time: 70 in memory time: 70 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 12 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+Page: 4 in memory: 4 last touch time: 70 in memory time: 70 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 2 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+Page: 4 in memory: 4 last touch time: 80 in memory time: 80 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+Page: 4 in memory: 4 last touch time: 80 in memory time: 80 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 50 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 50 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 4 in memory: 4 last touch time: 100 in memory time: 100 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 50 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 24 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 12 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 24 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 28 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 12 in memory: 1 last touch time: 40 in memory time: 40 reference bit: false
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+Page: 24 in memory: 4 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 28 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 12 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 16 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 24 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 28 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 32 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 16 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 24 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 28 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 32 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 20 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+
+After replacement:
+Page: 28 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 32 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 20 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 28 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 32 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 36 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 50 in memory time: 50 reference bit: false
+Page: 24 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+
+After replacement:
+Page: 28 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 32 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 36 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 40 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 24 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+
+Before replacement:
+Page: 28 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 32 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 36 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 40 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 24 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+
+After replacement:
+Page: 28 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 32 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 36 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 40 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 44 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 28 in memory: 0 last touch time: 50 in memory time: 50 reference bit: true
+Page: 32 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 36 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 40 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 44 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 48 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 32 in memory: 1 last touch time: 40 in memory time: 40 reference bit: false
+Page: 36 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 40 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+Page: 44 in memory: 4 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 48 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 32 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 36 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 40 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 44 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 48 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 52 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 36 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 40 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 44 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 48 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 52 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 40 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 44 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+
+After replacement:
+Page: 48 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 52 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 56 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 40 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 44 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 48 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 52 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 56 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 40 in memory: 3 last touch time: 50 in memory time: 50 reference bit: false
+Page: 44 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+
+After replacement:
+Page: 48 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 52 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 56 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 60 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 44 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: true
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: false
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 1 in memory: 1 last touch time: 40 in memory time: 90 reference bit: false
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 2 in memory: 2 last touch time: 120 in memory time: 120 reference bit: false
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 18 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 110 in memory time: 130 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+
+After replacement:
+Page: 21 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: false
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 21 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: false
+
+After replacement:
+Page: 21 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: false
+Page: 24 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: false
+
+Before replacement:
+Page: 21 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: false
+Page: 24 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: false
+
+After replacement:
+Page: 21 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: false
+Page: 24 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 30 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 20 in memory time: 50 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: true
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 1 in memory: 1 last touch time: 70 in memory time: 70 reference bit: false
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 12 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 2 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 50 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 50 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 24 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: false
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: false
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 24 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 12 in memory: 1 last touch time: 40 in memory time: 40 reference bit: false
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 24 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 28 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 24 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 28 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+
+After replacement:
+Page: 24 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 28 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 32 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 24 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 28 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 32 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+
+After replacement:
+Page: 24 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 28 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 32 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 24 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 28 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 32 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 36 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 40 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 28 in memory: 1 last touch time: 30 in memory time: 30 reference bit: false
+Page: 32 in memory: 2 last touch time: 20 in memory time: 20 reference bit: false
+Page: 36 in memory: 3 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 40 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 28 in memory: 1 last touch time: 40 in memory time: 40 reference bit: false
+Page: 32 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 36 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 40 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 44 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 32 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 36 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 40 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 44 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 32 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 36 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+
+After replacement:
+Page: 40 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 44 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 48 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 36 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 40 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 44 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 48 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+
+After replacement:
+Page: 40 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 44 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 48 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 52 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 40 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 44 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 48 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 52 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 56 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 44 in memory: 1 last touch time: 30 in memory time: 30 reference bit: false
+Page: 48 in memory: 2 last touch time: 20 in memory time: 20 reference bit: false
+Page: 52 in memory: 3 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 56 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 44 in memory: 1 last touch time: 40 in memory time: 40 reference bit: false
+Page: 48 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 52 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 56 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 60 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 48 in memory: 2 last touch time: 30 in memory time: 30 reference bit: false
+Page: 52 in memory: 3 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 60 in memory time: 80 reference bit: true
+Page: 1 in memory: 1 last touch time: 30 in memory time: 80 reference bit: true
+Page: 2 in memory: 2 last touch time: 80 in memory time: 80 reference bit: true
+Page: 3 in memory: 3 last touch time: 10 in memory time: 80 reference bit: true
+
+After replacement:
+Page: 4 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 30 in memory time: 80 reference bit: false
+Page: 2 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 3 in memory: 3 last touch time: 10 in memory time: 80 reference bit: false
+
+Before replacement:
+Page: 4 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 1 in memory: 1 last touch time: 20 in memory time: 120 reference bit: true
+Page: 2 in memory: 2 last touch time: 120 in memory time: 120 reference bit: false
+Page: 3 in memory: 3 last touch time: 10 in memory time: 120 reference bit: true
+
+After replacement:
+Page: 4 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 1 in memory: 1 last touch time: 20 in memory time: 120 reference bit: false
+Page: 0 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 10 in memory time: 120 reference bit: true
+
+Before replacement:
+Page: 4 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 140 reference bit: true
+Page: 0 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 3 in memory: 3 last touch time: 30 in memory time: 140 reference bit: true
+
+After replacement:
+Page: 4 in memory: 0 last touch time: 50 in memory time: 60 reference bit: false
+Page: 1 in memory: 1 last touch time: 10 in memory time: 140 reference bit: false
+Page: 0 in memory: 2 last touch time: 20 in memory time: 20 reference bit: false
+Page: 63 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: true
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: true
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: true
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: false
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: false
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: false
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 1 in memory: 1 last touch time: 40 in memory time: 90 reference bit: false
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 2 in memory: 2 last touch time: 120 in memory time: 120 reference bit: false
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 18 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 110 in memory time: 130 reference bit: false
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 4 in memory: 4 last touch time: 160 in memory time: 160 reference bit: false
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 21 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 5 in memory: 5 last touch time: 190 in memory time: 190 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 24 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 140 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: true
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: true
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: true
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: true
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 30 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: false
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: false
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: true
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: true
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: true
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: false
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: false
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: false
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 1 in memory: 1 last touch time: 40 in memory time: 90 reference bit: false
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 2 in memory: 2 last touch time: 120 in memory time: 120 reference bit: false
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 18 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 110 in memory time: 130 reference bit: false
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 4 in memory: 4 last touch time: 160 in memory time: 160 reference bit: false
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 21 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 5 in memory: 5 last touch time: 190 in memory time: 190 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 24 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 140 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: true
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: true
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: true
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: true
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 30 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: false
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: false
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: true
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: true
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: true
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: false
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: false
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: false
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 1 in memory: 1 last touch time: 40 in memory time: 90 reference bit: false
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 2 in memory: 2 last touch time: 120 in memory time: 120 reference bit: false
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 18 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 110 in memory time: 130 reference bit: false
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 4 in memory: 4 last touch time: 160 in memory time: 160 reference bit: false
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 21 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 5 in memory: 5 last touch time: 190 in memory time: 190 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 24 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 140 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: true
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: true
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: true
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: true
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 30 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: false
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: false
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: true
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: true
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: true
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 60 reference bit: false
+Page: 2 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 60 reference bit: false
+Page: 4 in memory: 4 last touch time: 60 in memory time: 60 reference bit: false
+Page: 5 in memory: 5 last touch time: 60 in memory time: 60 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 1 in memory: 1 last touch time: 40 in memory time: 90 reference bit: false
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 30 reference bit: true
+Page: 10 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 90 in memory time: 90 reference bit: false
+Page: 3 in memory: 3 last touch time: 70 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 2 in memory: 2 last touch time: 120 in memory time: 120 reference bit: false
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 60 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 30 reference bit: true
+Page: 18 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 100 in memory time: 120 reference bit: false
+Page: 4 in memory: 4 last touch time: 120 in memory time: 120 reference bit: false
+Page: 5 in memory: 5 last touch time: 120 in memory time: 120 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 110 in memory time: 130 reference bit: false
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 70 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 40 reference bit: true
+Page: 18 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 130 in memory time: 130 reference bit: false
+Page: 5 in memory: 5 last touch time: 130 in memory time: 130 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 4 in memory: 4 last touch time: 160 in memory time: 160 reference bit: false
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 100 reference bit: true
+Page: 10 in memory: 1 last touch time: 50 in memory time: 70 reference bit: true
+Page: 18 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 21 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 5 in memory: 5 last touch time: 160 in memory time: 160 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 5 in memory: 5 last touch time: 190 in memory time: 190 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 130 reference bit: true
+Page: 10 in memory: 1 last touch time: 10 in memory time: 100 reference bit: true
+Page: 18 in memory: 2 last touch time: 70 in memory time: 70 reference bit: true
+Page: 16 in memory: 3 last touch time: 60 in memory time: 60 reference bit: true
+Page: 21 in memory: 4 last touch time: 30 in memory time: 30 reference bit: true
+Page: 24 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 140 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: true
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: true
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: true
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: true
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 30 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 10 in memory: 1 last touch time: 20 in memory time: 110 reference bit: false
+Page: 18 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 16 in memory: 3 last touch time: 70 in memory time: 70 reference bit: false
+Page: 21 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 20 in memory time: 50 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: true
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: true
+Page: 4 in memory: 4 last touch time: 50 in memory time: 50 reference bit: true
+Page: 5 in memory: 5 last touch time: 50 in memory time: 50 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: false
+Page: 4 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+Page: 5 in memory: 5 last touch time: 50 in memory time: 50 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 1 in memory: 1 last touch time: 70 in memory time: 70 reference bit: false
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+Page: 4 in memory: 4 last touch time: 70 in memory time: 70 reference bit: false
+Page: 5 in memory: 5 last touch time: 70 in memory time: 70 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 12 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+Page: 4 in memory: 4 last touch time: 70 in memory time: 70 reference bit: false
+Page: 5 in memory: 5 last touch time: 70 in memory time: 70 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 2 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+Page: 4 in memory: 4 last touch time: 80 in memory time: 80 reference bit: false
+Page: 5 in memory: 5 last touch time: 80 in memory time: 80 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+Page: 4 in memory: 4 last touch time: 80 in memory time: 80 reference bit: false
+Page: 5 in memory: 5 last touch time: 80 in memory time: 80 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 50 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 50 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 4 in memory: 4 last touch time: 100 in memory time: 100 reference bit: false
+Page: 5 in memory: 5 last touch time: 100 in memory time: 100 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 50 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 24 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 5 in memory: 5 last touch time: 100 in memory time: 100 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 12 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 24 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 5 in memory: 5 last touch time: 110 in memory time: 110 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 12 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 24 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 28 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 60 in memory time: 70 reference bit: true
+Page: 12 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 16 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 24 in memory: 4 last touch time: 20 in memory time: 20 reference bit: true
+Page: 28 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 12 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 16 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 24 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+Page: 28 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 12 in memory: 1 last touch time: 60 in memory time: 60 reference bit: false
+Page: 16 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 20 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 28 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 16 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 20 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 28 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 36 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 20 in memory: 3 last touch time: 50 in memory time: 50 reference bit: false
+Page: 24 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 28 in memory: 5 last touch time: 30 in memory time: 30 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 36 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 40 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 20 in memory: 3 last touch time: 50 in memory time: 50 reference bit: false
+Page: 24 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 28 in memory: 5 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 36 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 40 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 60 in memory time: 60 reference bit: false
+Page: 24 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+Page: 28 in memory: 5 last touch time: 40 in memory time: 40 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 36 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 40 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 44 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 24 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+Page: 28 in memory: 5 last touch time: 40 in memory time: 40 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 36 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 40 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 44 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 24 in memory: 4 last touch time: 60 in memory time: 60 reference bit: false
+Page: 28 in memory: 5 last touch time: 50 in memory time: 50 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 36 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 40 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 44 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 48 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 28 in memory: 5 last touch time: 50 in memory time: 50 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 50 in memory time: 50 reference bit: true
+Page: 36 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 40 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 44 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 48 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 28 in memory: 5 last touch time: 60 in memory time: 60 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 50 in memory time: 50 reference bit: true
+Page: 36 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 40 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 44 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 48 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 52 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 60 in memory time: 60 reference bit: true
+Page: 36 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 40 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 44 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 48 in memory: 4 last touch time: 20 in memory time: 20 reference bit: true
+Page: 52 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 56 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 36 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 40 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 44 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 48 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+Page: 52 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 56 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 1 last touch time: 60 in memory time: 60 reference bit: false
+Page: 40 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 44 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 48 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 52 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 56 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 60 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 40 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 44 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 48 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 52 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 20 in memory time: 50 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: true
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: true
+Page: 4 in memory: 4 last touch time: 50 in memory time: 50 reference bit: true
+Page: 5 in memory: 5 last touch time: 50 in memory time: 50 reference bit: true
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 2 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 3 in memory: 3 last touch time: 10 in memory time: 50 reference bit: false
+Page: 4 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+Page: 5 in memory: 5 last touch time: 50 in memory time: 50 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 1 in memory: 1 last touch time: 70 in memory time: 70 reference bit: false
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+Page: 4 in memory: 4 last touch time: 70 in memory time: 70 reference bit: false
+Page: 5 in memory: 5 last touch time: 70 in memory time: 70 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 10 in memory time: 20 reference bit: true
+Page: 12 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 2 in memory: 2 last touch time: 70 in memory time: 70 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 70 reference bit: false
+Page: 4 in memory: 4 last touch time: 70 in memory time: 70 reference bit: false
+Page: 5 in memory: 5 last touch time: 70 in memory time: 70 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 2 in memory: 2 last touch time: 80 in memory time: 80 reference bit: false
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+Page: 4 in memory: 4 last touch time: 80 in memory time: 80 reference bit: false
+Page: 5 in memory: 5 last touch time: 80 in memory time: 80 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 20 in memory time: 30 reference bit: true
+Page: 12 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 3 in memory: 3 last touch time: 40 in memory time: 80 reference bit: false
+Page: 4 in memory: 4 last touch time: 80 in memory time: 80 reference bit: false
+Page: 5 in memory: 5 last touch time: 80 in memory time: 80 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 3 in memory: 3 last touch time: 50 in memory time: 90 reference bit: false
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 30 in memory time: 40 reference bit: true
+Page: 12 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 16 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 4 in memory: 4 last touch time: 90 in memory time: 90 reference bit: false
+Page: 5 in memory: 5 last touch time: 90 in memory time: 90 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 50 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 4 in memory: 4 last touch time: 100 in memory time: 100 reference bit: false
+Page: 5 in memory: 5 last touch time: 100 in memory time: 100 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 40 in memory time: 50 reference bit: true
+Page: 12 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 16 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 20 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 24 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 5 in memory: 5 last touch time: 100 in memory time: 100 reference bit: false
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 12 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 24 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 5 in memory: 5 last touch time: 110 in memory time: 110 reference bit: false
+
+After replacement:
+Page: 8 in memory: 0 last touch time: 50 in memory time: 60 reference bit: true
+Page: 12 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 16 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 20 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 24 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 28 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 8 in memory: 0 last touch time: 60 in memory time: 70 reference bit: true
+Page: 12 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 16 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 24 in memory: 4 last touch time: 20 in memory time: 20 reference bit: true
+Page: 28 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 12 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 16 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 20 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 24 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+Page: 28 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 12 in memory: 1 last touch time: 60 in memory time: 60 reference bit: false
+Page: 16 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 20 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 28 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 16 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 20 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 24 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 28 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 36 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 16 in memory: 2 last touch time: 60 in memory time: 60 reference bit: false
+Page: 20 in memory: 3 last touch time: 50 in memory time: 50 reference bit: false
+Page: 24 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 28 in memory: 5 last touch time: 30 in memory time: 30 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 20 in memory time: 20 reference bit: true
+Page: 36 in memory: 1 last touch time: 10 in memory time: 10 reference bit: true
+Page: 40 in memory: 2 last touch time: 0 in memory time: 0 reference bit: true
+Page: 20 in memory: 3 last touch time: 50 in memory time: 50 reference bit: false
+Page: 24 in memory: 4 last touch time: 40 in memory time: 40 reference bit: false
+Page: 28 in memory: 5 last touch time: 30 in memory time: 30 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 36 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 40 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 20 in memory: 3 last touch time: 60 in memory time: 60 reference bit: false
+Page: 24 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+Page: 28 in memory: 5 last touch time: 40 in memory time: 40 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 30 in memory time: 30 reference bit: true
+Page: 36 in memory: 1 last touch time: 20 in memory time: 20 reference bit: true
+Page: 40 in memory: 2 last touch time: 10 in memory time: 10 reference bit: true
+Page: 44 in memory: 3 last touch time: 0 in memory time: 0 reference bit: true
+Page: 24 in memory: 4 last touch time: 50 in memory time: 50 reference bit: false
+Page: 28 in memory: 5 last touch time: 40 in memory time: 40 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 36 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 40 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 44 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 24 in memory: 4 last touch time: 60 in memory time: 60 reference bit: false
+Page: 28 in memory: 5 last touch time: 50 in memory time: 50 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 40 in memory time: 40 reference bit: true
+Page: 36 in memory: 1 last touch time: 30 in memory time: 30 reference bit: true
+Page: 40 in memory: 2 last touch time: 20 in memory time: 20 reference bit: true
+Page: 44 in memory: 3 last touch time: 10 in memory time: 10 reference bit: true
+Page: 48 in memory: 4 last touch time: 0 in memory time: 0 reference bit: true
+Page: 28 in memory: 5 last touch time: 50 in memory time: 50 reference bit: false
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 50 in memory time: 50 reference bit: true
+Page: 36 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 40 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 44 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 48 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 28 in memory: 5 last touch time: 60 in memory time: 60 reference bit: false
+
+After replacement:
+Page: 32 in memory: 0 last touch time: 50 in memory time: 50 reference bit: true
+Page: 36 in memory: 1 last touch time: 40 in memory time: 40 reference bit: true
+Page: 40 in memory: 2 last touch time: 30 in memory time: 30 reference bit: true
+Page: 44 in memory: 3 last touch time: 20 in memory time: 20 reference bit: true
+Page: 48 in memory: 4 last touch time: 10 in memory time: 10 reference bit: true
+Page: 52 in memory: 5 last touch time: 0 in memory time: 0 reference bit: true
+
+Before replacement:
+Page: 32 in memory: 0 last touch time: 60 in memory time: 60 reference bit: true
+Page: 36 in memory: 1 last touch time: 50 in memory time: 50 reference bit: true
+Page: 40 in memory: 2 last touch time: 40 in memory time: 40 reference bit: true
+Page: 44 in memory: 3 last touch time: 30 in memory time: 30 reference bit: true
+Page: 48 in memory: 4 last touch time: 20 in memory time: 20 reference bit: true
+Page: 52 in memory: 5 last touch time: 10 in memory time: 10 reference bit: true
+
+After replacement:
+Page: 56 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 36 in memory: 1 last touch time: 50 in memory time: 50 reference bit: false
+Page: 40 in memory: 2 last touch time: 40 in memory time: 40 reference bit: false
+Page: 44 in memory: 3 last touch time: 30 in memory time: 30 reference bit: false
+Page: 48 in memory: 4 last touch time: 20 in memory time: 20 reference bit: false
+Page: 52 in memory: 5 last touch time: 10 in memory time: 10 reference bit: false
+
+Before replacement:
+Page: 56 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 36 in memory: 1 last touch time: 60 in memory time: 60 reference bit: false
+Page: 40 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 44 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 48 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 52 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+After replacement:
+Page: 56 in memory: 0 last touch time: 10 in memory time: 10 reference bit: true
+Page: 60 in memory: 1 last touch time: 0 in memory time: 0 reference bit: true
+Page: 40 in memory: 2 last touch time: 50 in memory time: 50 reference bit: false
+Page: 44 in memory: 3 last touch time: 40 in memory time: 40 reference bit: false
+Page: 48 in memory: 4 last touch time: 30 in memory time: 30 reference bit: false
+Page: 52 in memory: 5 last touch time: 20 in memory time: 20 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 20 in memory time: 140 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 140 reference bit: true
+Page: 2 in memory: 2 last touch time: 140 in memory time: 140 reference bit: true
+Page: 3 in memory: 3 last touch time: 30 in memory time: 140 reference bit: true
+Page: 4 in memory: 4 last touch time: 50 in memory time: 140 reference bit: true
+Page: 5 in memory: 5 last touch time: 140 in memory time: 140 reference bit: true
+
+After replacement:
+Page: 63 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 140 reference bit: false
+Page: 2 in memory: 2 last touch time: 140 in memory time: 140 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 140 reference bit: false
+Page: 4 in memory: 4 last touch time: 50 in memory time: 140 reference bit: false
+Page: 5 in memory: 5 last touch time: 140 in memory time: 140 reference bit: false
+
+Before replacement:
+Page: 0 in memory: 0 last touch time: 20 in memory time: 140 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 140 reference bit: true
+Page: 2 in memory: 2 last touch time: 140 in memory time: 140 reference bit: true
+Page: 3 in memory: 3 last touch time: 30 in memory time: 140 reference bit: true
+Page: 4 in memory: 4 last touch time: 50 in memory time: 140 reference bit: true
+Page: 5 in memory: 5 last touch time: 140 in memory time: 140 reference bit: true
+
+After replacement:
+Page: 63 in memory: 0 last touch time: 0 in memory time: 0 reference bit: true
+Page: 1 in memory: 1 last touch time: 10 in memory time: 140 reference bit: false
+Page: 2 in memory: 2 last touch time: 140 in memory time: 140 reference bit: false
+Page: 3 in memory: 3 last touch time: 30 in memory time: 140 reference bit: false
+Page: 4 in memory: 4 last touch time: 50 in memory time: 140 reference bit: false
+Page: 5 in memory: 5 last touch time: 140 in memory time: 140 reference bit: false
+

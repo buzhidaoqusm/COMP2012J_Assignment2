@@ -1,0 +1,121 @@
+// Simulate high-frequency random accesses with varying read and write operations
+
+// High-frequency access in block 3, simulating a memory hotspot
+WRITE 12288
+WRITE 12289
+WRITE 12290
+WRITE 12291
+READ 12288
+READ 12289
+WRITE 12292
+READ 12290
+WRITE 12293
+READ 12291
+
+// Sequential access across block 6, crossing page boundaries
+WRITE 98304
+WRITE 98305
+WRITE 98306
+WRITE 98307
+READ 98308
+READ 98309
+WRITE 98310
+WRITE 98311
+READ 98312
+
+// Large range access simulating heavy page fault activity
+WRITE 524288
+WRITE 524289
+WRITE 524290
+WRITE 524291
+WRITE 524292
+WRITE 524293
+WRITE 524294
+READ 524295
+WRITE 524296
+READ 524297
+
+
+// Frequent writes and reads on a few specific addresses, testing page replacement
+WRITE 16384
+WRITE 16385
+READ 16384
+READ 16385
+WRITE 16386
+WRITE 16387
+READ 16388
+WRITE 16389
+
+// Accessing pages near the boundaries of the address space
+WRITE 1048570
+WRITE 1048569
+READ 1048571
+WRITE 1048575
+READ 1048574
+WRITE 1048568
+WRITE 1048567
+READ 1048566
+
+// Mixed access patterns with page boundaries crossing
+WRITE 8192
+WRITE 16384
+WRITE 24576
+READ 32768
+WRITE 40960
+READ 49152
+WRITE 57344
+
+// Simulate bursty writes followed by read accesses
+WRITE 131072
+WRITE 131073
+WRITE 131074
+WRITE 131075
+READ 131076
+WRITE 131077
+WRITE 131078
+READ 131079
+
+// Frequent revisits to the same address, testing the LRU and FIFO algorithms
+READ 512
+WRITE 512
+READ 512
+WRITE 512
+WRITE 512
+READ 512
+
+// Random page accesses, some writes and some reads with no specific pattern
+WRITE 100000
+WRITE 200000
+READ 300000
+WRITE 400000
+READ 500000
+WRITE 600000
+READ 700000
+
+// Large number of writes followed by reads, testing bulk access efficiency
+WRITE 0
+WRITE 1
+WRITE 2
+WRITE 3
+WRITE 4
+WRITE 5
+WRITE 6
+WRITE 7
+WRITE 8
+WRITE 9
+WRITE 10
+WRITE 11
+WRITE 12
+WRITE 13
+WRITE 14
+WRITE 15
+
+// Mixed accesses with high-frequency burst read/writes and sparse accesses
+WRITE 8192
+READ 12288
+WRITE 20480
+READ 24576
+WRITE 32768
+READ 40960
+WRITE 49152
+WRITE 57344
